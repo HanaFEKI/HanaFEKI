@@ -14,12 +14,6 @@
 
 ---
 
-### 📈 GitHub Activity
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=hanafeki&theme=github)
-
----
-
 ### 📫 Connect with me
 
 [LinkedIn](https://www.linkedin.com/in/hana-feki) | [Email](mailto:hana.feki@example.com)
