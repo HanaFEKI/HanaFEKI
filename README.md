@@ -1,10 +1,5 @@
 # 👋 Hello, I'm Hana Feki
 
-<p align="center">
-  <img src="https://media.tenor.com/images/aaa29c79f7f9a8790bf3c50dc99007ff/tenor.gif" width="400" alt="CNN neural network animation" />
-</p>
-
-
 🎓 Engineering student at **ENSTA Paris**, specializing in **Applied Mathematics**  
 🤖 Passionate about **Deep Learning**, **Computer Vision**, and **Medical Imaging**  
 🧠 Currently a **Computer Vision Research Intern** working on **histopathology** using **deep learning** and **foundation models**  
