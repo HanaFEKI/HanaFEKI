@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Hana Feki
 
-🎓 Engineering Student at ENSTA Paris — specializing in Applied Mathematics 
+🎓 Engineering Student at ENSTA Paris, specializing in Applied Mathematics 
 
 🤖 Enthusiast in Deep Learning, Computer Vision & Medical Imaging  
 
