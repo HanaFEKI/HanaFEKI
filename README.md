@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Hana Feki
 
 <p align="center">
-  <img src="https://media.giphy.com/media/IKlXIDPkysyn4c3R2s/giphy.gif" width="400" alt="neural network animation" />
+  <img src="https://media.tenor.com/images/aaa29c79f7f9a8790bf3c50dc99007ff/tenor.gif" width="400" alt="CNN neural network animation" />
 </p>
 
 
@@ -34,7 +34,7 @@
 ### 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hana-feki/)  
-📧 hana.feki@ensta.fr
+[![Email](https://img.shields.io/badge/Email-hana.feki@ensta.fr-D14836?style=flat&logo=gmail&logoColor=white)](mailto:hana.feki@ensta.fr)
 
 ---
 
