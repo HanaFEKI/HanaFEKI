@@ -5,6 +5,7 @@
 </p>
 
 
+
 🎓 Engineering student at **ENSTA Paris**, specializing in **Applied Mathematics**  
 🤖 Passionate about **Deep Learning**, **Computer Vision**, and **Medical Imaging**  
 🧠 Currently a **Computer Vision Research Intern** working on **histopathology** using **deep learning** and **foundation models**  
