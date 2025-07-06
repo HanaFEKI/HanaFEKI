@@ -18,7 +18,7 @@
 
 ### 📫 Connect with me
 
-[LinkedIn](https://www.linkedin.com/in/hana-feki) | [Email](mailto:hana.feki@example.com)
+[LinkedIn](https://www.linkedin.com/in/hana-feki/) | [Email](mailto:hana.feki@ensta.fr)
 
 ---
 
