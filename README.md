@@ -8,21 +8,29 @@
 
 ---
 
-### Skills & Interests
-- **Machine Learning & Deep Learning:** Python, PyTorch, TensorFlow, Scikit-learn  
-- **Computer Vision:** Image segmentation, object detection, medical imaging analysis  
-- **Data Science:** Data preprocessing, visualization, feature engineering  
-- **Programming:** Python, C++, MATLAB/Octave  
-- **Research:** Signal processing, neuroscience data analysis  
+### 🛠 Skills
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
+![PyTorch](https://img.shields.io/badge/-PyTorch-EA4335?style=flat&logo=PyTorch&logoColor=white)  
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white)  
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)  
+![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=flat&logo=matlab&logoColor=white)  
+![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)  
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 
 ---
 
-### 📫 Let's Connect  
-- [LinkedIn](https://www.linkedin.com/in/hana-feki)  
-- [Email](mailto:hana.feki@example.com)  
+### 📈 GitHub Activity
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=hanafeki&theme=github)
 
 ---
 
-### GitHub Stats  
-![Hana's GitHub stats](https://github-readme-stats.vercel.app/api?username=hanafeki&show_icons=true&theme=radical)
+### 📫 Connect with me
+
+[LinkedIn](https://www.linkedin.com/in/hana-feki) | [Email](mailto:hana.feki@example.com)
+
+---
+
+Thanks for stopping by! Feel free to explore my repositories or reach out.
 
