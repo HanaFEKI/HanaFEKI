@@ -5,6 +5,7 @@
 🤖 Enthusiast in Deep Learning, Computer Vision & Medical Imaging  
 
 🔍 Currently a Computer Vision Research Intern working on histopathology using deep learning and foundation models  
+
 📚 Always eager to learn, collaborate, and contribute to open-source projects
 
 ---
