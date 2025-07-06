@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Hana Feki
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26tOZ42Mg6pbTUPHW/giphy.gif" width="400" alt="Focusing animation" />
+  <img src="https://media.giphy.com/media/xT5LMBO1cHcRMdswKI/giphy.gif" width="400" alt="Simpsons chill" />
 </p>
 
 
