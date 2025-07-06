@@ -1,8 +1,9 @@
 # 👋 Hello, I'm Hana Feki
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26xBKnJAP0qkbsUmE/giphy.gif" width="400" alt="animated neural network layers" />
+  <img src="https://media.tenor.com/images/5b632212bb5c4f20a5412e11e4a57c30/tenor.gif" width="400" alt="CNN activation animation" />
 </p>
+
 
 
 
