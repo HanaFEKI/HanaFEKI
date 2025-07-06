@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Hana Feki
 
 <p align="center">
-  <img src="https://media.giphy.com/media/6arSJwtKZBtWCRzg6d/giphy.gif" width="400" alt="coding at night gif" />
+  <img src="https://media.tenor.com/images/aaa29c79f7f9a8790bf3c50dc99007ff/tenor.gif" width="400" alt="workaholic coder at desk" />
 </p>
 
 
