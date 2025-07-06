@@ -1,8 +1,9 @@
 # 👋 Hello, I'm Hana Feki
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l4JyOCNEfXvVYEqB2/giphy.gif" width="400" alt="neural network animation" />
+  <img src="https://media.giphy.com/media/26xBKnJAP0qkbsUmE/giphy.gif" width="400" alt="animated neural network layers" />
 </p>
+
 
 
 🎓 Engineering student at **ENSTA Paris**, specializing in **Applied Mathematics**  
