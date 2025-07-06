@@ -1,5 +1,10 @@
 # 👋 Hello, I'm Hana Feki
 
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="400" alt="Welcome GIF" />
+</p>
+
+
 🎓 Engineering student at **ENSTA Paris**, specializing in **Applied Mathematics**  
 🤖 Passionate about **Deep Learning**, **Computer Vision**, and **Medical Imaging**  
 🧠 Currently a **Computer Vision Research Intern** working on **histopathology** using **deep learning** and **foundation models**  
