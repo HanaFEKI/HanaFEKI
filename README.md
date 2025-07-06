@@ -13,7 +13,7 @@
 ### 🛠 Skills
 
 **Programming Languages:**  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=flat&logo=matlab&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=flat&logo=matlab&logoColor=white)
 
 **Frameworks & Libraries:**  
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EA4335?style=flat&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white) ![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat&logo=Keras&logoColor=white) ![Hugging Face](https://img.shields.io/badge/-Hugging_Face-FF6F61?style=flat&logo=huggingface&logoColor=white) ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) ![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?style=flat&logo=plotly&logoColor=white) ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
