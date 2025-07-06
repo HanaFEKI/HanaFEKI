@@ -1,10 +1,10 @@
 # 👋 Hello, I'm Hana Feki
 
-🎓 2nd-year Engineering Student at ENSTA Paris — specializing in Applied Mathematics 
+🎓 Engineering Student at ENSTA Paris — specializing in Applied Mathematics 
 🤖 Enthusiast in Deep Learning, Computer Vision & Medical Imaging  
 
-🔍 Currently seeking research internships focused on deep learning and computer vision (especially medical applications)  
-📚 Always eager to learn, collaborate, and contribute to open-source projects  
+🔍 Currently a Computer Vision Research Intern working on histopathology using deep learning and foundation models  
+📚 Always eager to learn, collaborate, and contribute to open-source projects
 
 ---
 
