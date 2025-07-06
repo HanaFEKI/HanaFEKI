@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Hana Feki
 
 <p align="center">
-  <img src="https://media.giphy.com/media/xT5LMBO1cHcRMdswKI/giphy.gif" width="400" alt="Simpsons chill" />
+  <img src="https://media.tenor.com/images/aaa29c79f7f9a8790bf3c50dc99007ff/tenor.gif" width="400" alt="coder immersed in work" />
 </p>
 
 
