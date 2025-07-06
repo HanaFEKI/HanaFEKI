@@ -1,9 +1,8 @@
 # 👋 Hello, I'm Hana Feki
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="400" alt="Welcome GIF" />
+  <img src="https://media.giphy.com/media/3o7aD6pFvIuWnZ4w0E/giphy.gif" width="400" alt="Focusing animation" />
 </p>
-
 
 
 🎓 Engineering student at **ENSTA Paris**, specializing in **Applied Mathematics**  
