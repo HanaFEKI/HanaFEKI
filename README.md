@@ -1,8 +1,9 @@
 # 👋 Hello, I'm Hana Feki
 
 <p align="center">
-  <img src="https://media.tenor.com/images/5b632212bb5c4f20a5412e11e4a57c30/tenor.gif" width="400" alt="CNN activation animation" />
+  <img src="https://media.giphy.com/media/IKlXIDPkysyn4c3R2s/giphy.gif" width="400" alt="neural network animation" />
 </p>
+
 
 🎓 Engineering student at **ENSTA Paris**, specializing in **Applied Mathematics**  
 🤖 Passionate about **Deep Learning**, **Computer Vision**, and **Medical Imaging**  
