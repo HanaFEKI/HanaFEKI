@@ -1,9 +1,8 @@
 # 👋 Hello, I'm Hana Feki
 
 <p align="center">
-  <img src="https://media.tenor.com/images/aaa29c79f7f9a8790bf3c50dc99007ff/tenor.gif" width="400" alt="workaholic coder at desk" />
+  <img src="https://media.giphy.com/media/3o7aD6pFvIuWnZ4w0E/giphy.gif" width="400" alt="workaholic coder kitten" />
 </p>
-
 
 🎓 Engineering student at **ENSTA Paris**, specializing in **Applied Mathematics**  
 🤖 Passionate about **Deep Learning**, **Computer Vision**, and **Medical Imaging**  
