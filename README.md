@@ -12,6 +12,9 @@
 ---
 
 ### 🛠 Skills
+<table>
+  <tr>
+    <td valign="top" width="50%">
 
 **Programming Languages:**  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) 
@@ -31,10 +34,17 @@
 **Other:**  
 ![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=flat&logo=latex&logoColor=white)
 
+    </td>
+    <td valign="top" width="50%" align="center">
 
-<div align="center">
+<div>
   <img width="325" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=HanaFEKI&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
+
+    </td>
+  </tr>
+</table>
+
 
 ---
 
