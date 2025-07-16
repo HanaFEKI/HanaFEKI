@@ -12,9 +12,10 @@
 ---
 
 ### 🛠 Skills
-<table>
-  <tr>
-    <td valign="top" width="50%">
+
+<div style="display: flex; align-items: flex-start; gap: 40px; flex-wrap: wrap;">
+
+  <div style="flex: 1; min-width: 280px; max-width: 600px;">
 
 **Programming Languages:**  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) 
@@ -34,17 +35,13 @@
 **Other:**  
 ![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=flat&logo=latex&logoColor=white)
 
-    </td>
-    <td valign="top" width="50%" align="center">
+  </div>
 
-<div>
-  <img width="325" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=HanaFEKI&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <div style="flex: 1; min-width: 280px; max-width: 350px; display: flex; justify-content: center; align-items: center;">
+    <img width="325" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=HanaFEKI&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  </div>
+
 </div>
-
-    </td>
-  </tr>
-</table>
-
 
 ---
 
