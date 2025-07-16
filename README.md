@@ -1,6 +1,8 @@
+<div align="center">
+
 # 👋 Hello, I'm Hana Feki
 
-<p align="center">
+<p>
   <img src="https://media.giphy.com/media/6arSJwtKZBtWCRzg6d/giphy.gif" width="400" alt="coding at night gif" />
 </p>
 
@@ -18,8 +20,6 @@
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) 
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white) 
 ![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)
-
-
 
 **Frameworks & Libraries:**  
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EA4335?style=flat&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white) ![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat&logo=Keras&logoColor=white) ![Hugging Face](https://img.shields.io/badge/-Hugging_Face-FF6F61?style=flat&logo=huggingface&logoColor=white) ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) ![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?style=flat&logo=plotly&logoColor=white) ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
@@ -55,3 +55,5 @@
 ---
 
 Thanks for stopping by! Feel free to explore my repositories or reach out 🌟
+
+</div>
