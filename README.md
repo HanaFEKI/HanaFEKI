@@ -3,10 +3,15 @@
 <p align="center">
   <img src="https://media.giphy.com/media/6arSJwtKZBtWCRzg6d/giphy.gif" width="400" alt="Coding at night" />
 </p>*
+
 📘 Master MVA (Mathématiques, Vision, Apprentissage) student at ENS
+
 🏫 Final-year Engineering student at ENSTA Paris, specializing in **Data Science**
+
 🔬 Research Intern in Computer Vision – focused on histopathology, deep learning, and foundation models
+
 💡 Passionate about Deep Learning, Computer Vision, and Medical Imaging
+
 🚀 Always exploring, creating, and contributing to research & open-source
 
 ---
