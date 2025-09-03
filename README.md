@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://media.giphy.com/media/6arSJwtKZBtWCRzg6d/giphy.gif" width="400" alt="Coding at night" />
-</p>*
+</p>
 
 📘 Master MVA (Mathématiques, Vision, Apprentissage) student at ENS
 
