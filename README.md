@@ -8,11 +8,11 @@
 
 🏫 Final-year Engineering student at ENSTA Paris, specializing in **Data Science**
 
-🔬 Research Intern in Computer Vision – focused on histopathology, deep learning, and foundation models
+🔬 Former Research Intern (Summer 2025) Specialized in computer vision for histopathology using deep learning and foundation models
 
 💡 Passionate about Deep Learning, Computer Vision, and Medical Imaging
 
-🚀 Always exploring, creating, and contributing to research & open-source
+🚀 Constantly exploring new ideas, building AI-driven projects, and contributing to research & open-source initiatives
 
 ---
 
