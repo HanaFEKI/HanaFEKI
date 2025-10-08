@@ -14,7 +14,6 @@
 
 🚀 Constantly exploring new ideas, building AI-driven projects, and contributing to research & open-source initiatives
 
----
 
 ## 🛠 Skills & Tools
 
@@ -51,8 +50,6 @@
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=flat&logo=latex&logoColor=white)
-
----
 
 ## 📫 Get in Touch
 
