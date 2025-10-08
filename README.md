@@ -39,6 +39,15 @@
 ![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 
+### 🖼 Computer Vision
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+![YOLO](https://img.shields.io/badge/-YOLO-FF6600?style=flat&logo=python&logoColor=white)
+
+### 🤖 LLMs & NLP
+![Transformers](https://img.shields.io/badge/-Transformers-000000?style=flat&logo=transformers&logoColor=white)
+![NLTK](https://img.shields.io/badge/-NLTK-FF9900?style=flat&logo=nltk&logoColor=white)
+![spaCy](https://img.shields.io/badge/-spaCy-09A3AC?style=flat&logo=spacy&logoColor=white)
+
 ### 🛠 Dev Tools
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
