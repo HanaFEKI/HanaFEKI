@@ -4,8 +4,6 @@
   <img src="https://media.giphy.com/media/6arSJwtKZBtWCRzg6d/giphy.gif" width="420" alt="Coding at night"/>
 </p>
 
----
-
 ## 🚀 About Me
 
 🎓 **MVA (Mathematics, Vision, Learning)** Master's student at **ENS Paris-Saclay**
