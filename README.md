@@ -166,7 +166,7 @@ Real-time player detection, tracking and tactical analysis.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hana-feki/)
 
-[![Email](https://img.shields.io/badge/Email-hana.feki@ensta.fr-D14836?style=flat&logo=gmail&logoColor=white)](mailto:hana.feki@ensta.fr)
+[![Email](https://img.shields.io/badge/Email-hanafeki26@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:hanafeki26@gmail.com)
 
 
 
