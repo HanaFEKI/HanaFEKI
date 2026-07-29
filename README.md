@@ -22,7 +22,7 @@
 
 🔬 Former Research Intern at **Mines Paris PSL**, working on deep learning and foundation models for computational pathology
 
-🏆 **1st Place Worldwide** — MICCAI MIDOG 2025 Challenge
+🏆 **1st Place Worldwide** at MICCAI MIDOG 2025 Challenge
 
 💡 Passionate about building next-generation AI systems for healthcare through:
 
@@ -58,7 +58,6 @@
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)
 
----
 
 ## 🧠 Deep Learning & AI
 
@@ -70,7 +69,6 @@
 ![Hugging Face](https://img.shields.io/badge/-Hugging_Face-FFD21E?style=flat&logo=huggingface&logoColor=black)
 ![Transformers](https://img.shields.io/badge/-Transformers-000000?style=flat)
 
----
 
 ## 🔬 Foundation Models & Representation Learning
 
@@ -82,7 +80,6 @@
 ![Contrastive Learning](https://img.shields.io/badge/-Contrastive_Learning-5E35B1?style=flat)
 ![Transfer Learning](https://img.shields.io/badge/-Transfer_Learning-3949AB?style=flat)
 
----
 
 ## 🩺 Computer Vision & Medical Imaging
 
@@ -97,7 +94,6 @@
 ![CT](https://img.shields.io/badge/-CT-546E7A?style=flat)
 ![Image Processing](https://img.shields.io/badge/-Image_Processing-2E7D32?style=flat)
 
----
 
 ## 📊 Data Science
 
@@ -109,7 +105,6 @@
 ![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 
----
 
 ## ⚙️ MLOps • Training • Infrastructure
 
@@ -124,7 +119,6 @@
 ![SLURM](https://img.shields.io/badge/-SLURM-0F4C81?style=flat)
 ![ONNX](https://img.shields.io/badge/-ONNX-005CED?style=flat&logo=onnx&logoColor=white)
 
----
 
 ## 🛠 Development Tools
 
@@ -137,7 +131,6 @@
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=flat&logo=latex&logoColor=white)
 
----
 
 # 🚀 Featured Projects
 
@@ -147,7 +140,6 @@ Deep learning and foundation models for computational pathology.
 
 🔗 https://github.com/HanaFEKI/Histopathology_foundation_models
 
----
 
 ### 🏀 AI Basketball Game Analyzer
 
@@ -157,7 +149,6 @@ Real-time player detection, tracking and tactical analysis.
 
 🔗 https://github.com/HanaFEKI/AI_BasketBall_Analysis_v1
 
----
 
 ### 🧠 3D Brain Tumor Segmentation
 
@@ -165,7 +156,6 @@ Real-time player detection, tracking and tactical analysis.
 
 🔗 https://github.com/HanaFEKI/3D-MRI-Brain-Tumor-Segmentation
 
----
 
 # 📈 GitHub Statistics
 
@@ -181,11 +171,10 @@ Real-time player detection, tracking and tactical analysis.
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=HanaFEKI&theme=tokyonight"/>
 </p>
 
----
 
 # 🏆 Achievements
 
-🥇 1st Place Worldwide at  **MICCAI MIDOG 2025 Challenge**
+🥇 1st Place Worldwide at **MICCAI MIDOG 2025 Challenge**
 
 🔬 Computer Vision Research @ Dassault Systèmes
 
@@ -193,7 +182,6 @@ Real-time player detection, tracking and tactical analysis.
 
 🚀 Open-source contributor with AI projects reaching 70+ GitHub stars
 
----
 
 # 📫 Connect with Me
 
@@ -201,6 +189,6 @@ Real-time player detection, tracking and tactical analysis.
 
 [![Email](https://img.shields.io/badge/Email-hana.feki@ensta.fr-D14836?style=flat&logo=gmail&logoColor=white)](mailto:hana.feki@ensta.fr)
 
----
+
 
 ⭐ **Thanks for stopping by! Feel free to explore my repositories or reach out for collaborations in AI, Computer Vision, and Medical Imaging.**
