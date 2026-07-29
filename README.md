@@ -4,12 +4,6 @@
   <img src="https://media.giphy.com/media/6arSJwtKZBtWCRzg6d/giphy.gif" width="420" alt="Coding at night"/>
 </p>
 
-<p align="center">
-  <a href="https://github.com/HanaFEKI">
-    <img src="https://komarev.com/ghpvc/?username=HanaFEKI&label=Profile%20Views&color=0e75b6&style=flat" />
-  </a>
-</p>
-
 ---
 
 ## 🚀 About Me
@@ -131,7 +125,7 @@
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=flat&logo=latex&logoColor=white)
 
-
+---
 # 🚀 Featured Projects
 
 ### 🩺 Histopathology Foundation Models
@@ -156,21 +150,7 @@ Real-time player detection, tracking and tactical analysis.
 
 🔗 https://github.com/HanaFEKI/3D-MRI-Brain-Tumor-Segmentation
 
-
-# 📈 GitHub Statistics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=HanaFEKI&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HanaFEKI&layout=compact&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=HanaFEKI&theme=tokyonight"/>
-</p>
-
+---
 
 # 🏆 Achievements
 
@@ -182,6 +162,7 @@ Real-time player detection, tracking and tactical analysis.
 
 🚀 Open-source contributor with AI projects reaching 70+ GitHub stars
 
+---
 
 # 📫 Connect with Me
 
