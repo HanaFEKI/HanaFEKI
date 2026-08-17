@@ -16,30 +16,7 @@
 
 🏆 **1st Place Worldwide** at MICCAI MIDOG 2025 Challenge
 
-💡 Passionate about building next-generation AI systems for healthcare through:
-
-- 🩺 Medical Imaging
-- 🧠 Foundation Models
-- 📚 Vision-Language Models
-- 🔬 Self-Supervised Learning
-- 🤖 Deep Learning
-- 📈 Representation Learning
-
 ---
-
-# 🔬 Research Interests
-
-- Vision Foundation Models
-- Medical Imaging AI
-- Vision-Language Models (VLMs)
-- Representation Learning
-- Self-Supervised Learning
-- 3D CT & MRI Analysis
-- Histopathology
-- Open-Vocabulary Medical AI
-
----
-
 # 🛠 Tech Stack
 
 ## 👩‍💻 Programming Languages
@@ -123,42 +100,6 @@
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=flat&logo=latex&logoColor=white)
 
----
-# 🚀 Featured Projects
-
-### 🩺 Histopathology Foundation Models
-
-Deep learning and foundation models for computational pathology.
-
-🔗 https://github.com/HanaFEKI/Histopathology_foundation_models
-
-
-### 🏀 AI Basketball Game Analyzer
-
-Real-time player detection, tracking and tactical analysis.
-
-⭐ **70+ GitHub Stars**
-
-🔗 https://github.com/HanaFEKI/AI_BasketBall_Analysis_v1
-
-
-### 🧠 3D Brain Tumor Segmentation
-
-3D U-Net for volumetric MRI segmentation.
-
-🔗 https://github.com/HanaFEKI/3D-MRI-Brain-Tumor-Segmentation
-
----
-
-# 🏆 Achievements
-
-🥇 1st Place Worldwide at **MICCAI MIDOG 2025 Challenge**
-
-🔬 Computer Vision Research @ Dassault Systèmes
-
-🩺 Research in Medical Foundation Models & Vision-Language Models
-
-🚀 Open-source contributor with AI projects reaching 70+ GitHub stars
 
 ---
 
@@ -170,4 +111,4 @@ Real-time player detection, tracking and tactical analysis.
 
 
 
-⭐ **Thanks for stopping by! Feel free to explore my repositories or reach out for collaborations in AI, Computer Vision, and Medical Imaging.**
+⭐ **Thanks for stopping by! Feel free to explore my repositories or reach out for collaborations in AI and Computer Vision.**
