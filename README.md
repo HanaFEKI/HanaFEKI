@@ -1,25 +1,25 @@
-# 👋 Hi, I'm Hana Feki
+# Hi, I'm Hana Feki
 
 <p align="center">
   <img src="https://media.giphy.com/media/6arSJwtKZBtWCRzg6d/giphy.gif" width="420" alt="Coding at night"/>
 </p>
 
-## 🚀 About Me
+## About Me
 
-🎓 **MVA (Mathematics, Vision, Learning)** Master's student at **ENS Paris-Saclay**
+**MVA (Mathematics, Vision, Learning)** Master's student at **ENS Paris-Saclay**
 
-🎓 Final-year **Data Science Engineering** student at **ENSTA Paris**
+Final-year **Data Science Engineering** student at **ENSTA Paris**
 
-🔬 Computer Vision Research Intern at **Dassault Systèmes**
+Computer Vision Research Intern at **Dassault Systèmes**
 
-🔬 Former Research Intern at **Mines Paris PSL**, working on deep learning and foundation models for computational pathology
+Former Research Intern at **Mines Paris PSL**, working on deep learning and foundation models for computational pathology
 
-🏆 **1st Place Worldwide** at MICCAI MIDOG 2025 Challenge
+**1st Place Worldwide** at MICCAI MIDOG 2025 Challenge
 
 ---
-# 🛠 Tech Stack
+# Tech Stack
 
-## 👩‍💻 Programming Languages
+## Programming Languages
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
@@ -28,7 +28,7 @@
 ![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)
 
 
-## 🧠 Deep Learning & AI
+## Deep Learning & AI
 
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![PyTorch Lightning](https://img.shields.io/badge/-PyTorch_Lightning-792EE5?style=flat&logo=pytorchlightning&logoColor=white)
@@ -39,7 +39,17 @@
 ![Transformers](https://img.shields.io/badge/-Transformers-000000?style=flat)
 
 
-## 🔬 Foundation Models & Representation Learning
+## Large Language Models & GenAI
+
+![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![LlamaIndex](https://img.shields.io/badge/-LlamaIndex-8A2BE2?style=flat)
+![RAG](https://img.shields.io/badge/-Retrieval_Augmented_Generation-0A66C2?style=flat)
+![Vector Databases](https://img.shields.io/badge/-Vector_Databases-3949AB?style=flat)
+
+
+## Foundation Models & Representation Learning
 
 ![Vision Transformers](https://img.shields.io/badge/-Vision_Transformers-4B0082?style=flat)
 ![Vision-Language Models](https://img.shields.io/badge/-Vision--Language_Models-0A66C2?style=flat)
@@ -50,7 +60,7 @@
 ![Transfer Learning](https://img.shields.io/badge/-Transfer_Learning-3949AB?style=flat)
 
 
-## 🩺 Computer Vision & Medical Imaging
+## Computer Vision & Medical Imaging
 
 ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
 ![YOLO](https://img.shields.io/badge/-YOLO-FF6600?style=flat)
@@ -64,7 +74,7 @@
 ![Image Processing](https://img.shields.io/badge/-Image_Processing-2E7D32?style=flat)
 
 
-## 📊 Data Science
+## Data Science
 
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)
@@ -75,7 +85,7 @@
 ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 
 
-## ⚙️ MLOps • Training • Infrastructure
+## MLOps, Training & Infrastructure
 
 ![Hydra](https://img.shields.io/badge/-Hydra-89CFF0?style=flat)
 ![MLflow](https://img.shields.io/badge/-MLflow-0194E2?style=flat&logo=mlflow&logoColor=white)
@@ -89,7 +99,7 @@
 ![ONNX](https://img.shields.io/badge/-ONNX-005CED?style=flat&logo=onnx&logoColor=white)
 
 
-## 🛠 Development Tools
+## Development Tools
 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
@@ -103,7 +113,7 @@
 
 ---
 
-# 📫 Connect with Me
+# Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hana-feki/)
 
@@ -111,4 +121,4 @@
 
 
 
-⭐ **Thanks for stopping by! Feel free to explore my repositories or reach out for collaborations in AI and Computer Vision.**
+Thanks for stopping by! Feel free to explore my repositories or reach out for collaborations in AI, LLMs and Computer Vision.
